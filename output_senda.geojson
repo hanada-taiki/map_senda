@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "総合校舎S棟",
         "building:colour": "#3388ff"
       },
       "geometry": {
@@ -86,7 +86,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "総合校舎B棟",
         "building:colour": "#3388ff"
       },
       "geometry": {
@@ -154,7 +154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "総合校舎C棟",
         "building:colour": "#3388ff"
       },
       "geometry": {
@@ -190,7 +190,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "総合校舎A棟",
         "building:colour": "#3388ff"
       },
       "geometry": {
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "東千田未来創生センター",
         "building:colour": "#3388ff"
       },
       "geometry": {
@@ -310,7 +310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "憶思棟",
         "building:colour": "#3388ff"
       },
       "geometry": {
@@ -354,7 +354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名称なし",
+        "name": "（総合校舎L棟）",
         "building:colour": "#3388ff"
       },
       "geometry": {
